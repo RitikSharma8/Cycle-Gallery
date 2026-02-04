@@ -20,7 +20,7 @@ body {
 .entry-wrap {
     height: 400px;
     width: 100%;
-    background-image: url(./Images/mikkel-bech-yjAFnkLtKY0-unsplash.jpg);
+    background-image: url('../images/mikkel-bech-yjAFnkLtKY0-unsplash.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -933,3 +933,4 @@ border-radius: 2rem;
     transform: translateY(-5px) scale(1.05);
 
 }
+
